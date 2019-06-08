@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: linear-gradient(to left, red, orange, yellow, green, blue);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#botones {
+    height: 200px;
+    width: 200px;
+    background-color:cornsilk;
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+    margin: auto;
+}
+
+#bLogin {
+    text-decoration: none;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(25, 25, 71);
+    background-color: rgba(124, 157, 228, 0.521);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+#bLogin:hover {
+    background-color: rgb(55, 170, 44);
+}
+
+#bSignin {
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(25, 25, 71);
+    background-color: rgba(124, 157, 228, 0.521);
+    padding: 10px 36px;
+    border-radius: 15px;
+}
+
+#bSignin:hover {
+    background-color: rgb(55, 170, 44);
+}
+
+#bSesion {
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(25, 25, 71);
+    background-color: rgba(124, 157, 228, 0.521);
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+#bSesion:hover {
+    background-color: rgb(55, 170, 44);
+}
+
+#olvidaste {
+    text-decoration: none;
+    color: brown;
+}
+
+#bConfirmar {
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(25, 25, 71);
+    background-color: rgba(124, 157, 228, 0.521);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+#bConfirmar:hover {
+    background-color: rgb(55, 170, 44);
+}
+
+
+
+form, footer {
+    text-align: center;
+}
